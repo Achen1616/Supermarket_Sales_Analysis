@@ -1,12 +1,12 @@
 # Supermarket-Sales-Analysis
 
-This is a repository for analyzing supermarket sales data using Pig and Hive in the Hadoop ecosystem. The project involves data cleaning, processing, and analysis of transaction records to derive meaningful insights about sales patterns and customer behavior.
+This is a repository for analysing supermarket sales data using Pig and Hive in the Hadoop ecosystem. The project involves data cleaning, processing, and analysis of transaction records to gain meaningful insights about sales patterns and customer behavior.
 
 The steps taken to carry out this analysis are listed briefly below:
 * The raw sales data was read into Pig for cleaning and processing
 * Basic analysis was performed using Pig queries
 * The cleaned data was loaded into Hive for more complex analysis
-* Visualizations were created using Jupyter notebooks to interpret the results
+* Visualisations were created using Jupyter notebooks to interpret the results
 
 The contents of this repo are as follows:
 * [Data](./Data) - Contains both raw and cleaned datasets
