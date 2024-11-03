@@ -8,7 +8,7 @@ The steps taken to carry out this analysis are listed briefly below:
 * The cleaned data was loaded into Hive for more complex analysis
 * Visualisations were created using Jupyter notebooks to interpret the results
 
-[Final Report](CSC1109 - Assignment 1.pdf)
+* [Final Report](CSC1109 - Assignment 1.pdf)
 
 The contents of this repo are as follows:
 * [Data](./Data) - Contains both raw and cleaned datasets
